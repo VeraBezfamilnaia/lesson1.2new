@@ -20,6 +20,7 @@ public class Main {
                 filteredArray.add(integer);
             }
         }
+
         return filteredArray;
     }
 }
